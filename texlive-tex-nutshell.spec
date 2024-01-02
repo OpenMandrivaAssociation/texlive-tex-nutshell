@@ -1,6 +1,6 @@
 Name:		texlive-tex-nutshell
-Version:	63336
-Release:	2
+Version:	67213
+Release:	1
 Summary:	A short document about TeX principles
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tex-nutshell
