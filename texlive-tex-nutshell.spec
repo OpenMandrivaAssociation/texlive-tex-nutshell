@@ -1,5 +1,5 @@
 Name:		texlive-tex-nutshell
-Version:	67213
+Version:	70375
 Release:	1
 Summary:	A short document about TeX principles
 Group:		Publishing
